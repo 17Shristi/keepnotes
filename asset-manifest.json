@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/keepnotes/static/js/main.ecf5fa51.js",
+    "index.html": "/keepnotes/index.html",
+    "main.ecf5fa51.js.map": "/keepnotes/static/js/main.ecf5fa51.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ecf5fa51.js"
+  ]
+}
